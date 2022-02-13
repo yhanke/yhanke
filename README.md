@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhanke
 - 👀 I’m interested in to learn how to create App (web & Mobile) to show data and information at Geographics Environment
-- 🌱 I’m currently learning web dev at front end (html/css/js), Basic of Python Lang
+- 🌱 I’m currently learning web dev at front end (html/css/js), Basic of Python Lang, Spatial SQL at Postgres+PostGis
 - 💞️ I’m looking to collaborate on To make WebMapping for my coworkers
 - 📫 How to reach me ...
 
